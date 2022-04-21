@@ -1,0 +1,9 @@
+C:\Users\Moisés David\dev\MyCalc\bin\Release\MyCalc.exe.config
+C:\Users\Moisés David\dev\MyCalc\bin\Release\MyCalc.exe
+C:\Users\Moisés David\dev\MyCalc\bin\Release\MyCalc.pdb
+C:\Users\Moisés David\dev\MyCalc\obj\Release\MyCalc.Calc.resources
+C:\Users\Moisés David\dev\MyCalc\obj\Release\MyCalc.Properties.Resources.resources
+C:\Users\Moisés David\dev\MyCalc\obj\Release\MyCalc.csproj.GenerateResource.cache
+C:\Users\Moisés David\dev\MyCalc\obj\Release\MyCalc.csproj.CoreCompileInputs.cache
+C:\Users\Moisés David\dev\MyCalc\obj\Release\MyCalc.exe
+C:\Users\Moisés David\dev\MyCalc\obj\Release\MyCalc.pdb

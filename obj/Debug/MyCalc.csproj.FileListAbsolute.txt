@@ -1,0 +1,10 @@
+C:\Users\Moisés David\dev\MyCalc\bin\Debug\MyCalc.exe.config
+C:\Users\Moisés David\dev\MyCalc\bin\Debug\MyCalc.exe
+C:\Users\Moisés David\dev\MyCalc\bin\Debug\MyCalc.pdb
+C:\Users\Moisés David\dev\MyCalc\obj\Debug\MyCalc.csproj.AssemblyReference.cache
+C:\Users\Moisés David\dev\MyCalc\obj\Debug\MyCalc.Properties.Resources.resources
+C:\Users\Moisés David\dev\MyCalc\obj\Debug\MyCalc.csproj.GenerateResource.cache
+C:\Users\Moisés David\dev\MyCalc\obj\Debug\MyCalc.csproj.CoreCompileInputs.cache
+C:\Users\Moisés David\dev\MyCalc\obj\Debug\MyCalc.exe
+C:\Users\Moisés David\dev\MyCalc\obj\Debug\MyCalc.pdb
+C:\Users\Moisés David\dev\MyCalc\obj\Debug\MyCalc.Calc.resources
